@@ -103,7 +103,7 @@ class Team {
     // "Chestnut Hill Narwhals: 6 wins, 4 losses"
 
 
-    // Print out which team won the whole series, e.g.,
+    // Print out which team won the whole series (i.e., won the most games), e.g.,
     // "The Chestnut Hill Narwhals won the series."
 
     
