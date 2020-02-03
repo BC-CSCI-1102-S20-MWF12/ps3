@@ -106,8 +106,12 @@ class Team {
     // Print out which team won the whole series, e.g.,
     // "The Chestnut Hill Narwhals won the series."
 
+    
     // Print out the total number of points scored by each team, e.g.,
     // "The Chestnut Hill Narwhals scored 497 points."
+    
+    //  Print out which team had the most points.
+    // "Chestnut Hill Narwhals had more points."
 
 
   }
