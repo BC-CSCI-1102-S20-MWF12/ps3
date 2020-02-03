@@ -52,9 +52,10 @@ Here are your tasks:
   * Create a second Team object with whatever city and mascot you wish.
   * Play the specified number of games between the two teams. (Hint: use `play()` and a `for` loop!) After each game, add the name of the winner (i.e., the city + mascot) to the ArrayList of winning teams.
   * After the desired number of games, use the ArrayList to print out the name of the winning team for each game.
-  * Using the `wins` and `losses` instance variables, print out the record of wins and losses for each team.
+  * Using getters, print out the record of wins and losses for each team.
   * Print out which team won the whole series.
-  * Print out which team scored the most points in the series.
+  * Print out the number of points each team scored.
+  * Print out which team had the most points.
   
 ### Pushing and verifying your submission
 
